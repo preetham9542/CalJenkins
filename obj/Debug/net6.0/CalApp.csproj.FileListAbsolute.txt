@@ -1,0 +1,14 @@
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\bin\Debug\net6.0\CalApp.exe
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\bin\Debug\net6.0\CalApp.deps.json
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\bin\Debug\net6.0\CalApp.runtimeconfig.json
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\bin\Debug\net6.0\CalApp.dll
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\bin\Debug\net6.0\CalApp.pdb
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.AssemblyInfoInputs.cache
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.AssemblyInfo.cs
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.dll
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\refint\CalApp.dll
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.pdb
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.genruntimeconfig.cache
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\ref\CalApp.dll
