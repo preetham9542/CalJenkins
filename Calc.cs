@@ -24,5 +24,9 @@ namespace CalApp
         {
             Console.WriteLine("Result after Division:\t" + (x / y));
         }
+        public void Avg(double x, double y)
+        {
+            Console.WriteLine("Average of { x } and {y} =\t: "+(x + y)/2);
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c033c16dd98069330c5301fbb832cdcc9b398391")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

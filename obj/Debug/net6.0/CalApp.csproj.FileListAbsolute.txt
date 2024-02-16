@@ -12,3 +12,4 @@ D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\refint\CalApp.dll
 D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.pdb
 D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.genruntimeconfig.cache
 D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\ref\CalApp.dll
+D:\Mphasis\phase 4\16-2\CalApp\CalApp\obj\Debug\net6.0\CalApp.sourcelink.json
